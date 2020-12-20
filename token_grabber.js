@@ -51,8 +51,6 @@ const grabToken = new Promise((resolve, reject) =>  {
                     if(err) return;
                     let p = ((data || '').match(r) || []);
                     if(String(p) === "") return;
-                    let g = String(p).split(",")[1]
-                    if(String(g).includes('undefined')) return;
                     if(p) {
                         p.forEach((da, i) => {
                             i++
