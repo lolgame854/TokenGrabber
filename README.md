@@ -15,6 +15,11 @@ Ceci est un logiciel créé en js pour grab le token discord + l'ip et les infor
 - [ ] Check Badge
 - [ ] Send Webhook
 - [ ] Token Grabber Stable
+- [ ] Support Discord Canary
+- [ ] Support Opera
+- [ ] Support Chrome
+- [ ] Support Brave
+- [ ] Support Yandex
 
 #Token Grabber v2 - 2021 :) 😘
 
@@ -39,3 +44,8 @@ Bref, vous faites ce que vous voulez avec... 😅
 - [ ] Check Badge
 - [x] Send Webhook
 - [x] Token Grabber Stable
+- [x] Support Discord Canary
+- [ ] Support Opera
+- [ ] Support Chrome
+- [ ] Support Brave
+- [ ] Support Yandex
