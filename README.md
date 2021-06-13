@@ -11,3 +11,10 @@ Voici une nouvelle version que j'ai créé pour m'amuser un peu.
 Ah oui seulement si voulez que ça récupère tous les tokens du mec il faut changer un peu le code, car j'avais la flemme de faire le reste. Ne m'en voulez pas x)
 
 Bref, vous faites ce que vous voulez avec...
+
+- [x] Token
+- [ ] Multi Token
+- [x] IP
+- [x] Email
+- [x] Phone
+- [x] Info Account
