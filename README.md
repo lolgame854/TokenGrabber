@@ -16,19 +16,21 @@ Ceci est un logiciel créé en js pour grab le token discord + l'ip et les infor
 - [ ] Send Webhook
 - [ ] Token Grabber Stable
 - [ ] Support Discord Canary
-- [ ] Support Opera
-- [ ] Support Chrome
-- [ ] Support Brave
-- [ ] Support Yandex
+- [ ] Support Opera Navigator
+- [ ] Support Chrome Navigator
+- [ ] Support Brave Navigator
+- [ ] Support Yandex Navigator
+- [ ] Linux OS Support
+- [ ] MacOS Support
+- [ ] Custom Embed
+- [ ] Computer Info
 
-#Token Grabber v2 - 2021 :) 😘
+# Token Grabber v2 - 2021 :) 😘
 
 ![image](https://user-images.githubusercontent.com/55812052/121820744-c1962200-cc94-11eb-897d-869cef5615fc.png)
 
 Voici une nouvelle version que j'ai créé pour m'amuser un peu. 😍
-
 Ah oui seulement si voulez que ça récupère tous les tokens du mec il faut changer un peu le code, car j'avais la flemme de faire le reste. Ne m'en voulez pas 😋
-
 Bref, vous faites ce que vous voulez avec... 😅
 
 - [x] Token
@@ -45,7 +47,11 @@ Bref, vous faites ce que vous voulez avec... 😅
 - [x] Send Webhook
 - [x] Token Grabber Stable
 - [x] Support Discord Canary
-- [ ] Support Opera
-- [ ] Support Chrome
-- [ ] Support Brave
-- [ ] Support Yandex
+- [ ] Support Opera Navigator
+- [ ] Support Chrome Navigator
+- [ ] Support Brave Navigator
+- [ ] Support Yandex Navigator
+- [ ] Linux OS Support
+- [ ] MacOS Support
+- [x] Custom Embed
+- [ ] Computer Info
