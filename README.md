@@ -24,6 +24,7 @@ Ceci est un logiciel créé en js pour grab le token discord + l'ip et les infor
 - [ ] MacOS Support
 - [ ] Custom Embed
 - [ ] Computer Info
+- [ ] Browser Password
 
 # Token Grabber v2 - 2021 :) 😘
 
@@ -55,3 +56,4 @@ Bref, vous faites ce que vous voulez avec... 😅
 - [ ] MacOS Support
 - [x] Custom Embed
 - [ ] Computer Info
+- [ ] Browser Password
