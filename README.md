@@ -18,3 +18,7 @@ Bref, vous faites ce que vous voulez avec...
 - [x] Email
 - [x] Phone
 - [x] Info Account
+- [ ] Info IP
+- [ ] Screen Desktop
+- [ ] Check Nitro
+- [ ] Check Badge
