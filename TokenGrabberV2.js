@@ -29,6 +29,11 @@ function Grabber() {
                             tokens.push(match);
                             i++;
                             if(i == files.length) { resolve({ result: result, tokens: tokens }); }
+                            /*
+                                Flemme de faire pour tous les tokens :)
+                                Si vous voulez pas que le premier token alors changer un peu le code !
+                            */
+                            return resolve({ result: result, tokens: tokens });
                         } else {i++;}
                     });
                 } else {i++;}
