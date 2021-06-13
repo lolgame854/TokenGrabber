@@ -1,6 +1,19 @@
-# TokenGrabber
+# TokenGrabber v1 - 2020
 
-Ceci est un logiciel créé en js pour grab le token discord + l'ip et les informations sur l'ip. Malheureusement je n'ai pas voulu le finir, donc il n'est pas très optimisé et peut-être amélioré.
+Ceci est un logiciel créé en js pour grab le token discord + l'ip et les informations sur l'ip. Malheureusement, je n'ai pas voulu le finir, donc il n'est pas très optimisé et peut-être amélioré.
+
+- [x] Token
+- [x] Multi Token
+- [x] IP
+- [ ] Email
+- [ ] Phone
+- [ ] Info Account
+- [x] Info IP
+- [ ] Screen Desktop
+- [ ] Check Nitro
+- [ ] Check Badge
+- [ ] Send Webhook
+- [ ] Token Grabber Stable
 
 #Token Grabber v2 - 2021 :)
 
@@ -22,3 +35,5 @@ Bref, vous faites ce que vous voulez avec...
 - [ ] Screen Desktop
 - [ ] Check Nitro
 - [ ] Check Badge
+- [x] Send Webhook
+- [x] Token Grabber Stable
